@@ -12,7 +12,7 @@ root.render(
     <P href="https:youtube.com" color="orange">Página Youtube</P>
     <P href="https:linkedin.com" color= "pink">Página Linkedin</P>
     <P href="https:linkedin.com/goyo" color="blueviolet">Página Goyo</P>
-    <P href="https:linkedin.com/goyo" color="blueviolet">Página Goyo</P>
+   
   </React.StrictMode>
 );
 
