@@ -1,12 +1,11 @@
-import React from 'react'
+import React from "react";
 
-export const Button = ( {onClick, children}) => {
+export const Button = ({ onClick, children }) => {
   return (
     <>
-        <button style={{color:"blue"}}  onClick= { onClick }>
-            {children}
-            </button>
+      <button style={{ color: "blue" }} onClick={onClick}>
+        {children}
+      </button>
     </>
   );
-}
-
+};
